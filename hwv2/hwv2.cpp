@@ -3,8 +3,8 @@
 
 int main()
 {
- printf("Hello, epta!")
-  return 0
+ printf("Hello, epta!");
+  return 0;
 }
 
 
